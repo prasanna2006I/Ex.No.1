@@ -313,9 +313,9 @@ Optimized for speed and efficiency (quantization, pruning, distillation).
 
 Deployed via APIs, chat apps, or embedded into tools.
 # Result
- Generative AI and Large Language Models have redefined how we interact with technology,
- enabling machines not just to understand but also to create. By exploring their foundational
- concepts, architectures, applications, and the effects of scaling, we gain a comprehensive
- understanding of their role in shaping the future of AI. As these technologies evolve, it
- becomes increasingly important to harness their power responsibly—ensuring innovation
- benefits society while safeguarding against ethical risks.
+  Generative AI and Large Language Models have redefined how we interact with technology,
+  enabling machines not just to understand but also to create. By exploring their foundational
+  concepts, architectures, applications, and the effects of scaling, we gain a comprehensive
+  understanding of their role in shaping the future of AI. As these technologies evolve, it
+  becomes increasingly important to harness their power responsibly—ensuring innovation
+  benefits society while safeguarding against ethical risks.
