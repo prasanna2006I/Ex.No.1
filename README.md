@@ -96,7 +96,8 @@ Backbone of modern large language models (LLMs) like GPT, BERT, and PaLM.
 Excel at sequence-based data such as text, speech, and even music.
 
 <img width="2929" height="1710" alt="image" src="https://github.com/user-attachments/assets/db6a2e2c-70ca-4e95-b193-46f110979466" />
-## 2.Focusing on Generative AI architectures. (like transformers).
+
+# 2.Focusing on Generative AI architectures. (like transformers).
 1. Transformers: The Powerhouse of Generative AI
 Transformers revolutionized sequence modeling by replacing recurrence with self-attention, enabling parallelism and long-range dependency tracking.
 
