@@ -57,9 +57,6 @@ Step 7: Finalize and Export
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
 
-
-
-# Output
 # 1. Explain the foundational concepts of Generative AI.
 ## 1. Introduction
 
